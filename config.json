@@ -1,0 +1,24 @@
+{
+  "target_dir": "/Users/sm.fedorov/Documents/dev/baromood",
+  "repo_slug": "baromood.github.io",
+  "app_name_en_full": "Baromood: Weather & Storms",
+  "app_name_en_short": "Baromood",
+  "app_name_ru_full": "По погоде",
+  "app_name_ru_short": "По погоде",
+  "support_email": "czbvweq@nickmxh.com",
+  "icon_svg_path": "/Users/sm.fedorov/Documents/dev/baromood/_figma/icon_10072.svg",
+  "icon_filename": "sparkle.svg",
+  "year": "2026",
+  "last_updated_en": "October 6, 2026",
+  "last_updated_ru": "6 октября 2026 г.",
+  "palette": {
+    "bg": "#121212",
+    "bg_soft": "#1d1d1d",
+    "bg_elevated": "#282929",
+    "text_muted": "#9ca2a1",
+    "accent": "#3c86ad",
+    "accent_2": "#84cce4",
+    "violet": "#1c688b",
+    "violet_deep": "#0e4350"
+  }
+}
